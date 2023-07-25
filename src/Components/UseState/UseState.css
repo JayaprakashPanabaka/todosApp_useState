@@ -1,0 +1,31 @@
+.bg-container {
+    background-color: aliceblue;
+    height: 50vh;
+    width: 50vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    color: brown;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.btn {
+    background-color: aqua;
+    outline: none;
+    border: none;
+    color:brown;
+}
+
+
+
